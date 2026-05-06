@@ -1,7 +1,4 @@
-# Slot 2 - Backend & Database
-
-**Hệ thống Điểm danh Nhận diện Khuôn mặt** | Nhóm 31 | HK252
-Phụ trách: **Nguyễn Thế Hoàng (2352354)**
+**Hệ thống Điểm danh Nhận diện Khuôn mặt** | Nhóm 31 | HK252 | HCMUT
 
 ---
 
