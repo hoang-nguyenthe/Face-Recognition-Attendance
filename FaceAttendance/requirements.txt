@@ -1,0 +1,11 @@
+opencv-python
+numpy
+setuptools
+face_recognition
+git+https://github.com/ageitgey/face_recognition_models
+flask
+streamlit
+pandas
+openpyxl
+requests
+pyserial
