@@ -280,3 +280,4 @@ Lần lượt từng người đứng trước camera. Kiểm tra:
 | 2 | Trần Bảo Phúc Long | 2352703 |
 | 3 | Đinh Hoàng Quân | 2352986 |
 | 4 | Đỗ Tài Thành | 2353096 |
+| 5 | Phan Quốc Đại Sơn | 2353053 |
